@@ -1,0 +1,30 @@
+{
+  "name": "AngularJS-training",
+  "version": "0.0.1",
+  "homepage": "https://github.com/smallg/AngularJS-training",
+  "authors": [
+    "smallg <gwpxjb@163.com>"
+  ],
+  "description": "training AngularJS in EC|Wise",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "angular": "1.3.0",
+    "angular-route": "1.3.0",
+    "angular-resource": "1.3.0"
+  }
+}
